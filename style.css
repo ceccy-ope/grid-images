@@ -1,0 +1,11 @@
+body{
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: #c4c4c4;
+    height: 100%;
+    display: grid;
+    place-content: center;
+}
