@@ -13,8 +13,8 @@ body {
 }
 
 .container {
-  width: 50%;
-  aspect-ratio: 1.5;
+  width: 40%;
+  aspect-ratio: 1;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
